@@ -3,7 +3,7 @@
   <h3 align="center">
       A Real-World RAG Workload Trace to Optimize RAG Serving Systems
   </h3>
-  <a href="https://arxiv.org/pdf/2511.xxxxx.pdf" target="_blank"><strong>📃 Technical Report</strong></a>
+  <a href="https://arxiv.org/pdf/2511.12979" target="_blank"><strong>📃 Technical Report</strong></a>
 </div>
 <br/>
 
