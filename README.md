@@ -176,7 +176,14 @@ Track how real-world RAG workloads evolve toward agent-style reasoning and multi
 Please kindly cite our paper if you find the paper or the trace is useful:
 
 ```bibtex
-@article{
+@misc{RAGPulse,
+      title={RAGPulse: An Open-Source RAG Workload Trace to Optimize RAG Serving Systems}, 
+      author={Zhengchao Wang and Yitao Hu and Jianing Ye and Zhuxuan Chang and Jiazheng Yu and Youpeng Deng and Keqiu Li},
+      year={2025},
+      eprint={2511.12979},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2511.12979}, 
 }
 ```
 
